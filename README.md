@@ -2,6 +2,9 @@ Hi, I’m Khadija 👋. I’m a student passionate about coding 💻. I enjoy bu
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dija-hub&layout=compact&theme=radical)  ![Khadija's GitHub stats](https://github-readme-stats.vercel.app/api?username=dija-hub&show_icons=true&theme=radical)
+
+![Khadija's GitHub stats](https://github-readme-stats.vercel.app/api?username=dija-hub&show_icons=true&theme=radical)
+
 ## 🛠️ Skills
 
 ![HTML](https://img.shields.io/badge/Code-HTML-orange?logo=html5)
