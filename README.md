@@ -5,7 +5,10 @@ Hi, I’m Khadija 👋. I’m a student passionate about coding 💻. I enjoy bu
 
 
 
-    ![Khadija's GitHub stats](https://github-readme-stats.vercel.app/api?username=dija-hub&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dija-hub&layout=compact&theme=radical) 
+    ![Khadija's GitHub stats](https://github-readme-stats.vercel.app/api?username=dija-hub&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dija-hub&layout=compact&theme=radical)
+
+  ![Khadija's Graph](https://github-readme-activity-graph.vercel.app/graph?username=dija-hub&theme=react-dark)
+
 
 ## 🛠️ Skills
 
