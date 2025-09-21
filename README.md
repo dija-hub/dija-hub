@@ -9,6 +9,7 @@ Hi, I’m Khadija 👋. I’m a student passionate about coding 💻. I enjoy bu
 
   ![Khadija's Graph](https://github-readme-activity-graph.vercel.app/graph?username=dija-hub&theme=react-dark)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=dija-hub&theme=onedark&row=1&column=6)
 
 ## 🛠️ Skills
 
