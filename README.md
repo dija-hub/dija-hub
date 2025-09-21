@@ -17,6 +17,9 @@ I’m a student passionate about coding 💻. I enjoy building simple but fun pr
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
 
 
+![Love Coding](https://img.shields.io/badge/Loves-Coding-pink?logo=heart)
+![Learning](https://img.shields.io/badge/Currently-Learning-green?logo=book)
+![Dreamer](https://img.shields.io/badge/Dream-Big-blue?logo=star)
 
 
 
