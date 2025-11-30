@@ -4,7 +4,6 @@ I’m a student passionate about coding 💻. I enjoy building simple but fun pr
 - 🎮 [Tic Tac Toe Game](https://github.com/dija-hub/Tic-Tak-Toe-Game) 
 - ✊ [Rock Paper Scissors](https://github.com/dija-hub/Rock-Paper-and-Scissor-Game)  
 
-
   ![Khadija's Graph](https://github-readme-activity-graph.vercel.app/graph?username=dija-hub&theme=react-dark)
 
 
