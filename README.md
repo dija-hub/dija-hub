@@ -6,7 +6,7 @@ I’m a student passionate about coding 💻. I enjoy building simple but fun pr
 
 
 
-    ![Khadija's GitHub stats](https://github-readme-stats.vercel.app/api?username=dija-hub&show_icons=true&theme=radical) 
+    (https://github-readme-stats.vercel.app/api?username=dija-hub&show_icons=true&theme=radical) 
 
   ![Khadija's Graph](https://github-readme-activity-graph.vercel.app/graph?username=dija-hub&theme=react-dark)
 
