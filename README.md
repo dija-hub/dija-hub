@@ -10,7 +10,7 @@ I'm a passionate Frontend Developer who enjoys building clean, responsive, and u
 ### Languages
 - HTML5
 - CSS3
-- JavaScript (ES6+)
+- JavaScript 
 
 ### Frameworks & Libraries
 - React.js
