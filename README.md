@@ -8,8 +8,8 @@ I'm a passionate Frontend Developer who enjoys building clean, responsive, and u
 ## 🛠️ Tech Stack
 
 ### Languages
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript 
 
 ### Frameworks & Libraries
