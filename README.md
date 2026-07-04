@@ -15,11 +15,7 @@ I'm a passionate Frontend Developer who enjoys building clean, responsive, and u
 ### Frameworks & Libraries
 - React.js
 
-- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dija-hub&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dija-hub&layout=compact&theme=tokyonight)
-
+  
 
 
 
